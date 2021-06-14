@@ -1,16 +1,27 @@
-### Hi there 👋
+ ## Well hello there 🌌
+ 
+ ### I'm Lissa and I'm a physicist  
+ 
+🏢 I'm currently a final-year PhD student in the University of Pavia, Italy
+  
+📄 all my papers are available on [ArVix](https://arxiv.org/search/?query=Campos%2C+L+d+S&searchtype=author&abstracts=show&order=-announced_date_first&size=50) and on [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Lissa%20de%20Souza%20Campos)
+  
+✉️ reach me at lissa.campos@alumni.usp.br
 
-<!--
-**lissadesouzacampos/lissadesouzacampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### working on Quantum Field Theory on Curved Spacetimes
 
-Here are some ideas to get you started:
+🔮 on the construction of physically-sensible states for free, scalar, massive, quantum fields on static spacetimes
+  
+🔦 on probing quantum states with Unruh-DeWitt particle detectors
+  
+📉 on thermal effects of black holes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### and uploading my notebooks here
+
+⌛ the numerical analyses of my papers
+
+🔧 simple Mathematica packages (for personal use) that really simplifies the computations I perform 
+  
+  
+If you have criticisms, doubts, suggestions, or are interested in improving one of these simple packages, making it more professional, or would like to collaborate in the development of a new one, please contact me and we can work on it together 🙂    
+
