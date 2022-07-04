@@ -2,11 +2,11 @@
  
  ### I'm Lissa and I'm a physicist  
  
-🏢 I'm currently a final-year PhD student in the University of Pavia, Italy
+🏢 I'm currently a research fellow in the University of Pavia, Italy
   
 📄 all my papers are available on [ArVix](https://arxiv.org/search/?query=Campos%2C+L+d+S&searchtype=author&abstracts=show&order=-announced_date_first&size=50) and on [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Lissa%20de%20Souza%20Campos)
   
-✉️ reach me at lissa.campos@alumni.usp.br
+✉️ reach me at lissa.desouzacampos@unipv.it
 
 ### working on Quantum Field Theory on Curved Spacetimes
 
