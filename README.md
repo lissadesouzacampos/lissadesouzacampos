@@ -1,6 +1,6 @@
  ## Well hello there 🌌
  
- ### I'm Lissa and I'm a phd in mathematical physicist  
+ ### I'm Lissa and I'm a phd in mathematical physics 
  
 🐦 I'm currently in-between stuff
 
