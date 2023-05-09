@@ -1,27 +1,24 @@
  ## Well hello there 🌌
  
- ### I'm Lissa and I'm a physicist  
+ ### I'm Lissa and I'm a phd in mathematical physicist  
  
-🏢 I'm currently a research fellow in the University of Pavia, Italy
-  
-📄 all my papers are available on [ArVix](https://arxiv.org/search/?query=Campos%2C+L+d+S&searchtype=author&abstracts=show&order=-announced_date_first&size=50) and on [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Lissa%20de%20Souza%20Campos)
-  
-✉️ reach me at lissa.desouzacampos@unipv.it
+🐦 I'm currently in-between stuff
 
-### working on Quantum Field Theory on Curved Spacetimes
+### Here on my github you can find
 
-🔮 on the construction of physically-sensible states for free, scalar, massive, quantum fields on static spacetimes
-  
-🔦 on probing quantum states with Unruh-DeWitt particle detectors
-  
-📉 on thermal effects of black holes
+📉 notebooks with the numerical analyses of my papers
 
-### and uploading my notebooks here
+🔧 simple Mathematica packages (for personal use) that really simplified the computations I performed during my phd
 
-⌛ the numerical analyses of my papers
+🎯 projects I've worked on for personal/professional development or just for fun
 
-🔧 simple Mathematica packages (for personal use) that really simplifies the computations I perform 
+### Most of my work on Quantum Field Theory on Curved Spacetimes is available online
   
+📄 my papers are available on [ArVix](https://arxiv.org/search/?query=Campos%2C+L+d+S&searchtype=author&abstracts=show&order=-announced_date_first&size=50) and on [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Lissa%20de%20Souza%20Campos)
+
+### Contact me
   
-If you have criticisms, doubts, suggestions, or are interested in improving one of these simple packages, making it more professional, or would like to collaborate in the development of a new one, please contact me and we can work on it together 🙂    
+If you have criticisms, doubts, suggestions, or are interested in improving one of these simple packages, making it more professional, or would like to collaborate in the development of a new one, please contact me and we can work on it together 🙂 
+
+✉️ reach me at lissa.campos@alumni.usp.br
 
